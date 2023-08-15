@@ -1,0 +1,15 @@
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\bin\Debug\net6.0\1-FactoryMethod.exe
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\bin\Debug\net6.0\1-FactoryMethod.deps.json
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\bin\Debug\net6.0\1-FactoryMethod.runtimeconfig.json
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\bin\Debug\net6.0\1-FactoryMethod.dll
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\bin\Debug\net6.0\1-FactoryMethod.pdb
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\obj\Debug\net6.0\1-FactoryMethod.csproj.AssemblyReference.cache
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\obj\Debug\net6.0\1-FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\obj\Debug\net6.0\1-FactoryMethod.AssemblyInfoInputs.cache
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\obj\Debug\net6.0\1-FactoryMethod.AssemblyInfo.cs
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\obj\Debug\net6.0\1-FactoryMethod.csproj.CoreCompileInputs.cache
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\obj\Debug\net6.0\1-FactoryMethod.dll
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\obj\Debug\net6.0\refint\1-FactoryMethod.dll
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\obj\Debug\net6.0\1-FactoryMethod.pdb
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\obj\Debug\net6.0\1-FactoryMethod.genruntimeconfig.cache
+d:\Documents\VSCode\Design Pattern Macorati\1-FactoryMethod\obj\Debug\net6.0\ref\1-FactoryMethod.dll
